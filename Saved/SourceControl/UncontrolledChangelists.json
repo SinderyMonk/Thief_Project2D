@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/ThiefProject/Thief_Project2D/Content/Sprites/Map/Tilesheet01_TileSet.uasset",
+				"G:/ThiefProject/Thief_Project2D/Content/Levels/Level_1.umap",
+				"G:/ThiefProject/Thief_Project2D/Content/Blueprints/player/BP_Player.uasset",
+				"G:/ThiefProject/Thief_Project2D/Content/Sprites/Map/Map.uasset",
+				"G:/ThiefProject/Thief_Project2D/Content/Sprites/Map/Map_2.uasset",
 				"C:/Users/benja/Documents/Unreal Projects/Thief_Project2D/Content/Levels/Level_1.umap",
 				"C:/Users/benja/Documents/Unreal Projects/Thief_Project2D/Content/Sprites/Player/FB_Player_IdleUP.uasset",
 				"C:/Users/benja/Documents/Unreal Projects/Thief_Project2D/Content/Sprites/Player/FB_Player_LeftWalkLL.uasset",
